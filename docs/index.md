@@ -1,5 +1,70 @@
 ## Welcome to GitHub Pages
 
+### Table of contents
+1. Compute
+    - EC2 - Elastic Compute Cloud
+    - ECS - Elastic Container Service
+    - ELB - Elastic Load Balancer
+    - Auto scaling
+    - EBS - Elastic Block Store
+    - Elastic Beanstalk  
+    - Lambda
+2. Storage
+    - S3 - Simple Storage Service
+    - EFS - Elastic File Server
+    - Storage Gateway
+    - FSx
+3. Databse
+    - RDS - Relational Database Service
+    - DynamoDB
+    - ElastiCache
+    - Redshift
+    - Aurora
+4. Data migration
+    - Snowball
+    - Database Migration
+    - DatSync
+5. Networking and Content Delivery
+    - VPC - Virtual Private Cloud
+    - CloudFront
+    - Route53
+    - API Gateway
+    - Direct Connect
+    - Global Accelerator
+6. Management Tools
+    - CloudWatch
+    - CloudTrail
+    - OpsWorks
+    - CloudFormation
+    - AWS Config
+    - System Manager
+    - AWS Organizations
+    - Resource Access Manager
+7. Media Services
+    - Elastic Transcoder
+    - Kinesis
+8. Analytics
+    - EMR - Elastic Map Reduce
+    - Kinesis
+    - Athena
+    - Glue
+9. Security, Identity and Compliance
+    - IAM - Identity and Access Management
+    - Accounts and Organizations
+    - Directory Services
+    - KMS - Key Management Service
+    - CloudHSM
+    - Cognito
+    - WAF and Shield 
+10. Application Integration
+    - SNS - Simple Notification Service
+    - SQS - Simple Queue Service
+    - SWF - Simple WorkFlow Service
+    - MQ
+    - Step Functions
+11. Desktop and App Streaming
+    - Workspaces
+
 You can use the [editor on GitHub](https://github.com/abidfs/aws-notes/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
